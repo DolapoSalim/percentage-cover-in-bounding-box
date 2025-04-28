@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 #Load the image
-image_path = "C:\Users\dolap\OneDrive\Pictures\First land scape.png"
+image_path = "C:......Pictures\First land scape.png"
 image = cv2.imread(image_path)
 
 # Image dimensions
